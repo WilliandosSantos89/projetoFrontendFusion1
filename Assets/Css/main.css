@@ -138,14 +138,8 @@ body {
   font-size: 4rem;
   display: flex;
   flex-direction: column;
-  font-weight: bold;
 }
 
-.hero__descricao ::before {
-  content: "";
-  color: #FF7070;
-  
-}
 .hero__descricao h3 {
   color: #767676;
   font-weight: 200;
